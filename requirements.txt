@@ -1,0 +1,10 @@
+pandas
+pyarrow
+numpy
+scikit-learn
+lightgbm
+matplotlib
+jupyter
+openpyxl
+lxml
+statsmodels

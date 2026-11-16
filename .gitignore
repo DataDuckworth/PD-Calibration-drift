@@ -1,0 +1,19 @@
+# Freddie Mac data: large, and the terms do not allow redistribution
+data/raw/*
+data/interim/*
+data/processed/*
+!data/**/.gitkeep
+
+# Downloaded papers (copyrighted); keep notes/references instead
+docs/papers/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+.ipynb_checkpoints/
+.env
+
+# Personal draft notes (not ready to share)
+docs/Paper_Notes.docx
+docs/*.pdf
